@@ -1,4 +1,4 @@
-Project Title: Front End Capston Shopping Website
+Project Title: Front End Capstone Shopping Website
 
 Overview: This is a fully functional web application that meets the specifications and requirements outlined by project stakeholders. Each member of the team worked on one widget that contributed towards entirety of the web application. This is an mock e-comemerce application that interacts with an existing API.  
 
