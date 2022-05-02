@@ -1,4 +1,4 @@
-Project Title: Front End Capstone Shopping Website
+Project Title: Abibas
 
 Overview: This is a fully functional web application that meets the specifications and requirements outlined by project stakeholders. Each member of the team worked on one widget that contributed towards entirety of the web application. This is a mock e-comemerce application that interacts with an existing API.  
 
@@ -66,7 +66,7 @@ Our application requests data from existing API hosted on herouku. Express acts 
 
 Our appliation uses Express, React, Axios, Webpack, and Babel. The developer would need to run:
 1. yarn install
-2. create config.js
+2. yarn install url
 3. Create token on Github, and put the token into .env
 4. yarn start to bundle the webpack
 5. yarn start to start the server. 
